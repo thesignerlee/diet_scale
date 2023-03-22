@@ -1,0 +1,20 @@
+body {
+  width: 1200px;
+}
+body * {
+  width: 600px;
+  margin: 0 auto;
+  text-align: center;
+}
+body h1 {
+  border: 1px solid #222;
+  background: aquamarine;
+}
+body p {
+  border: 1px solid #222;
+  background: aquamarine;
+}
+body ul {
+  border: 1px solid #222;
+  background: aquamarine;
+}/*# sourceMappingURL=main.css.map */
